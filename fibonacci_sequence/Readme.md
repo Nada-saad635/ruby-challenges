@@ -14,10 +14,9 @@ In this example:
 - 2 + 3 = 5
 - 3 + 5 = 8
 
-## How to Use the Code
 
 ## Customizing the Output
-You can modify the variable `n` to generate more or fewer Fibonacci numbers. For example, to generate the first 15 numbers, change `n` to 15:
+You can modify the variable `n` to generate more or fewer Fibonacci numbers. For example, to generate the first 11 numbers, change `n` to 11:
 
 
 
